@@ -1,5 +1,0 @@
--- Este proyecto consistió en recoger el ID y el nombre de aquel que use el comando de un bot de Discord, enviandolo a un archivo de texto con la hora, día, mes y año.
-Usando la librería de discord.py puedo obtener dicha información.
-
-Problema es, no tengo ni idea de como manterner actualizado la hora en la que se obtiene dicha información sin tener que apagar y encender el bot constantemente.
-Ya buscaré una solución a dicho problema.
